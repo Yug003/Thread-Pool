@@ -1,0 +1,18 @@
+# Compile/build outputs
+test_thread_pool
+test_thread_pool.exe
+*.o
+*.obj
+*.out
+
+# IDEs and workspace files
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
